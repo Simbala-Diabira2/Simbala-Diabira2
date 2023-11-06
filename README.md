@@ -1,13 +1,11 @@
 ![Développeur web frontend](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
-###Simbala Diabira
-#### Développeur web frontend
+### Simbala Diabira
 
 
 Je suis Simbala Diabira Et je suis Développeur frontend Je suis un concepteur de sites Web avec une vaste expérience depuis plus de 2 ans. Mon expertise est de créer et concevoir un site Web, un design graphique et bien d’autres ...
 
 Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Simbala-Diabira2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Webdevinnovate)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Webdevinnovate)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/webdevinnovate)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://simbala-diabira.github.io/Portofolio/)  
