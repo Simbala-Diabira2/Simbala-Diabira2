@@ -4,8 +4,9 @@
 
 Je suis Simbala Diabira Et je suis Développeur frontend Je suis un concepteur de sites Web avec une vaste expérience depuis plus de 2 ans. Mon expertise est de créer et concevoir un site Web, un design graphique et bien d’autres ...
 
-## Skills and Experiences
-* # React js
+## Skills and Experience
+* # ![Aperture2GIF](https://github.com/Simbala-Diabira2/Simbala-Diabira2/assets/149962497/6bafc980-b378-4614-9ded-8fa214d5ec44) React js
+* # 💻 HTML, CSS, JAVASCRIPT
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Simbala-Diabira2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Webdevinnovate)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Webdevinnovate)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/webdevinnovate)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://simbala-diabira.github.io/Portofolio/)  
