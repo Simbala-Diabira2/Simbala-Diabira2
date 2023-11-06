@@ -1,5 +1,5 @@
 ![Développeur web frontend](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
-### Hi there 👋, Simbala Diabira
+###Simbala Diabira
 #### Développeur web frontend
 
 
